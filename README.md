@@ -1,1 +1,1 @@
-Practive Problems from PIAIC Online classes of Javascript and Typescript
+Practice Programming Problems from PIAIC Online classes of Javascript and Typescript
